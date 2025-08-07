@@ -1,30 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <patients>
     <patient>
-        <birthDate>1998-12-25</birthDate>
+        <birthDate>2001-12-29</birthDate>
         <bloodType>65</bloodType>
-        <fullname>Larry Ellison</fullname>
+        <fullname>ja</fullname>
         <gender>true</gender>
-        <height>1.75</height>
+        <height>1.2</height>
         <id>1</id>
-        <weight>70</weight>
-    </patient>
-    <patient>
-        <birthDate>1980-06-28</birthDate>
-        <bloodType>66</bloodType>
-        <fullname>Elon Musk</fullname>
-        <gender>true</gender>
-        <height>1.85</height>
-        <id>2</id>
-        <weight>80</weight>
-    </patient>
-    <patient>
-        <birthDate>1990-03-01</birthDate>
-        <bloodType>79</bloodType>
-        <fullname>Ada Lovelace</fullname>
-        <gender>false</gender>
-        <height>1.65</height>
-        <id>3</id>
-        <weight>55</weight>
+        <weight>12</weight>
     </patient>
 </patients>
