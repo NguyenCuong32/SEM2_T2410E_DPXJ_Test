@@ -1,0 +1,17 @@
+[ {
+  "id" : 1,
+  "fullname" : "Pham Viet Toan",
+  "weightKg" : 75.0,
+  "height" : 1.8,
+  "bloodType" : "A",
+  "gender" : true,
+  "birthDate" : "1996-04-30"
+}, {
+  "id" : 2,
+  "fullname" : "Nguyen Khanh Duy",
+  "weightKg" : 75.0,
+  "height" : 1.71,
+  "bloodType" : "B",
+  "gender" : true,
+  "birthDate" : "2000-04-05"
+} ]

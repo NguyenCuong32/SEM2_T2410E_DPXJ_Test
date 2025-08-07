@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<persons>
+    <person>
+        <id>1</id>
+        <fullname>Pham Viet Toan</fullname>
+        <weightKg>75.0</weightKg>
+        <height>1.8</height>
+        <bloodType>65</bloodType>
+        <gender>true</gender>
+        <birthDate>1996-04-30</birthDate>
+    </person>
+    <person>
+        <id>2</id>
+        <fullname>Nguyen Khanh Duy</fullname>
+        <weightKg>75.0</weightKg>
+        <height>1.71</height>
+        <bloodType>66</bloodType>
+        <gender>true</gender>
+        <birthDate>2000-04-05</birthDate>
+    </person>
+</persons>
