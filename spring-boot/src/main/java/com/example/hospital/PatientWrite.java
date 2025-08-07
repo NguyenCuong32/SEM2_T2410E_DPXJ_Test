@@ -1,4 +1,8 @@
-package com.example.spring_boot;
+package com.example.hospital;
 
 public class PatientWrite {
+    public void writeDataToFileXML(){}
+    public void writeDataToFIleJSON(){}
+
+
 }

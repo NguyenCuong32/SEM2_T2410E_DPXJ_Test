@@ -1,5 +1,5 @@
-package com.example.hospital;
-
+package com.example.hospital.model;
+import java.time.LocalDate;
 public class Patient {
     private int id;
     private String full_name;
@@ -7,7 +7,7 @@ public class Patient {
     private float height;
     private char BloodType;
     private boolean gender;
-    private String BirthDate;
+    private LocalDate BirthDate;
 
     public int getId(){
         return id;
@@ -33,7 +33,7 @@ public class Patient {
         return gender;
     }
 
-    public String getBirthDate() {
+    public LocalDate getBirthDate() {
         return BirthDate;
     }
 
@@ -61,7 +61,7 @@ public class Patient {
         this.gender = gender;
     }
 
-    public void setBirthDate(String birthDate) {
+    public void setBirthDate(LocalDate birthDate) {
         BirthDate = birthDate;
     }
     public boolean isValid() {
