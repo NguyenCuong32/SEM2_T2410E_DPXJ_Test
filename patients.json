@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "fullName": "Pham Dong",
+    "weight": 70,
+    "height": 1.4,
+    "bloodType": "O",
+    "gender": true,
+    "birthDate": [2005, 9, 9]
+  }
+]
