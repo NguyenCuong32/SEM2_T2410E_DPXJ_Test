@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patients>
+    <patient>
+        <id>1</id>
+        <fullname>Patient B</fullname>
+        <weight>145</weight>
+        <height>1.5395148</height>
+        <bloodType>79</bloodType>
+        <gender>true</gender>
+        <birthDate>2002-09-14</birthDate>
+    </patient>
+    <patient>
+        <id>2</id>
+        <fullname>Patient C</fullname>
+        <weight>102</weight>
+        <height>1.6019411</height>
+        <bloodType>79</bloodType>
+        <gender>false</gender>
+        <birthDate>1981-09-13</birthDate>
+    </patient>
+    <patient>
+        <id>3</id>
+        <fullname>Patient D</fullname>
+        <weight>72</weight>
+        <height>1.6701375</height>
+        <bloodType>66</bloodType>
+        <gender>false</gender>
+        <birthDate>2007-11-01</birthDate>
+    </patient>
+    <patient>
+        <id>4</id>
+        <fullname>Patient E</fullname>
+        <weight>115</weight>
+        <height>1.6338165</height>
+        <bloodType>79</bloodType>
+        <gender>false</gender>
+        <birthDate>2007-12-21</birthDate>
+    </patient>
+    <patient>
+        <id>5</id>
+        <fullname>Patient F</fullname>
+        <weight>126</weight>
+        <height>1.8456602</height>
+        <bloodType>79</bloodType>
+        <gender>false</gender>
+        <birthDate>2005-09-26</birthDate>
+    </patient>
+    <patient>
+        <id>6</id>
+        <fullname>Patient G</fullname>
+        <weight>149</weight>
+        <height>1.9580429</height>
+        <bloodType>66</bloodType>
+        <gender>true</gender>
+        <birthDate>1989-11-11</birthDate>
+    </patient>
+    <patient>
+        <id>7</id>
+        <fullname>Patient H</fullname>
+        <weight>115</weight>
+        <height>1.6035779</height>
+        <bloodType>79</bloodType>
+        <gender>true</gender>
+        <birthDate>1983-12-20</birthDate>
+    </patient>
+    <patient>
+        <id>8</id>
+        <fullname>Patient I</fullname>
+        <weight>65</weight>
+        <height>1.5003772</height>
+        <bloodType>65</bloodType>
+        <gender>true</gender>
+        <birthDate>2002-03-01</birthDate>
+    </patient>
+</patients>
