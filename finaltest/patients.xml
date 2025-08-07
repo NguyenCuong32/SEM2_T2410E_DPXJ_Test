@@ -1,0 +1,11 @@
+<list>
+  <patient>
+    <id>1</id>
+    <fullname>minh ha</fullname>
+    <weight>12</weight>
+    <height>1.5</height>
+    <bloodType>A</bloodType>
+    <gender>true</gender>
+    <birthDate>2005-05-25</birthDate>
+  </patient>
+</list>
