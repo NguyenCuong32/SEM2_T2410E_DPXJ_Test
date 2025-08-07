@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patients>
+    <patient>
+        <id>1</id>
+        <fullname>minh</fullname>
+        <weight>56</weight>
+        <height>23.0</height>
+        <bloodType>65</bloodType>
+        <gender>true</gender>
+        <birthDate>2000-09-30</birthDate>
+    </patient>
+</patients>

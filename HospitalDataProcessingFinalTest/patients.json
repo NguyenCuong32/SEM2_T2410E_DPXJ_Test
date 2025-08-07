@@ -1,0 +1,9 @@
+[ {
+  "id" : 1,
+  "fullname" : "minh",
+  "weight" : 56,
+  "height" : 23.0,
+  "bloodType" : "A",
+  "gender" : true,
+  "birthDate" : "2000-09-30"
+} ]
