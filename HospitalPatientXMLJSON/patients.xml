@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patientList>
+    <patients>
+        <birthDate>1998-06-23</birthDate>
+        <bloodType>65</bloodType>
+        <fullname>Dat</fullname>
+        <gender>true</gender>
+        <height>1.7</height>
+        <id>1</id>
+        <weight>76</weight>
+    </patients>
+</patientList>

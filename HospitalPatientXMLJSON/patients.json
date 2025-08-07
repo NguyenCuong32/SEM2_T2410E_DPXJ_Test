@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "fullname": "Dat",
+    "weight": 76,
+    "height": 1.7,
+    "bloodType": "A",
+    "gender": true,
+    "birthDate": "1998-06-23"
+  }
+]
