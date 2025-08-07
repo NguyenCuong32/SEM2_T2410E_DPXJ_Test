@@ -1,0 +1,9 @@
+[ {
+  "id" : 12,
+  "fullname" : "sad",
+  "weight" : 12,
+  "height" : 1.2,
+  "bloodType" : "A",
+  "gender" : true,
+  "birthDate" : [ 2000, 9, 9 ]
+} ]

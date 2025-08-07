@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patients>
+    <patient>
+        <birthDate>1999-09-09</birthDate>
+        <bloodType>65</bloodType>
+        <fullname>asdas</fullname>
+        <gender>true</gender>
+        <height>1.3</height>
+        <id>121</id>
+        <weight>12</weight>
+    </patient>
+</patients>
