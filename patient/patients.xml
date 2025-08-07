@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<patients>
+    <patient>
+        <id>1</id>
+        <fullname>Larry Ellison</fullname>
+        <weight>70</weight>
+        <height>1.75</height>
+        <bloodType>65</bloodType>
+        <gender>true</gender>
+        <birthDate/>
+    </patient>
+</patients>

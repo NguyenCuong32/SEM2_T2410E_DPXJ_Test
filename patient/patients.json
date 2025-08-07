@@ -1,0 +1,8 @@
+  [ {
+    "id" : 1,
+    "fullname" : "Larry Ellison",
+    "weight" : 70,
+    "height" : 1.75,
+    "bloodType" : "A",
+    "gender" : true,
+    "birthDate"
